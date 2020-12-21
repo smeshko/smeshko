@@ -1,4 +1,4 @@
-### I am an iOS developer tha loves using Swift! 
+### I am an iOS developer who loves using Swift! 
 
 - 📖 I am currently trying to learn everything!
 - 🏆 2021 Goals: Contribute to more Open Source projects
