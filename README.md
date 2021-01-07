@@ -14,8 +14,8 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [UITableView wrapper in SwiftUI Part II](https://swiftwithivo.com/untitled/)
-- [UITableView wrapper in SwiftUI](https://swiftwithivo.com/uitableview-wrapper-in-swiftui/)
+- [UITableView wrapper in SwiftUI Part II](https://pbandswift.com/untitled/)
+- [UITableView wrapper in SwiftUI](https://pbandswift.com/uitableview-wrapper-in-swiftui/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
