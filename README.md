@@ -1,4 +1,4 @@
-### Ivaylo Tsonev
+### Ivo Tsonev
 
 Mobile engineer, 10 years across iOS and Flutter.  
 Built and shipped at Spotify, eBay, and REWE Digital.  
